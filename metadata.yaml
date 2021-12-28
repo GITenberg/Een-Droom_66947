@@ -1,5 +1,8 @@
 _repo: Een-Droom_66947
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 66947-h/images/new-cover.jpg
 creator:
   author:
     agent_name: Borel, Henri
@@ -12,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/44801
     wikipedia: https://nl.wikipedia.org/wiki/Henri_Borel
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/66947#Een-Droom
 gutenberg_issued: '2021-12-15'
 identifiers:
   gutenberg: '66947'
